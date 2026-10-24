@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects-Roxy\\BankAccountSelenium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E569D1A-A4AE-4A90-8D45-62DBA24365C2}|BankAccountWeb\\BankAccountWeb.csproj|c:\\projects-roxy\\bankaccountselenium\\bankaccountweb\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E569D1A-A4AE-4A90-8D45-62DBA24365C2}|BankAccountWeb\\BankAccountWeb.csproj|solutionrelative:bankaccountweb\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF74D29D-C06B-4E91-8C4B-2CC2A26A8E14}|BankAccountSeleniumTests\\BankAccountSeleniumTests.csproj|c:\\projects-roxy\\bankaccountselenium\\bankaccountseleniumtests\\bankaccountuitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF74D29D-C06B-4E91-8C4B-2CC2A26A8E14}|BankAccountSeleniumTests\\BankAccountSeleniumTests.csproj|solutionrelative:bankaccountseleniumtests\\bankaccountuitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Projects-Roxy\\BankAccountSelenium\\BankAccountWeb\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountWeb\\BankAccount.cs",
+              "ToolTip": "C:\\Projects-Roxy\\BankAccountSelenium\\BankAccountWeb\\BankAccount.cs",
+              "RelativeToolTip": "BankAccountWeb\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T19:34:13.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountUiTests.cs",
+              "DocumentMoniker": "C:\\Projects-Roxy\\BankAccountSelenium\\BankAccountSeleniumTests\\BankAccountUiTests.cs",
+              "RelativeDocumentMoniker": "BankAccountSeleniumTests\\BankAccountUiTests.cs",
+              "ToolTip": "C:\\Projects-Roxy\\BankAccountSelenium\\BankAccountSeleniumTests\\BankAccountUiTests.cs",
+              "RelativeToolTip": "BankAccountSeleniumTests\\BankAccountUiTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T19:31:43.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
